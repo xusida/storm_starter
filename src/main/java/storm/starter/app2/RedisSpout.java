@@ -18,7 +18,7 @@ import backtype.storm.utils.Utils;
 public class RedisSpout implements IRichSpout  {
 
 	/**
-	 * redis 发布订阅spout
+	 * redis 发布订阅spout 
 	 */
 	private static final long serialVersionUID = 2273741853436125664L;
 	SpoutOutputCollector _collector;
